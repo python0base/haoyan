@@ -1,1 +1,0 @@
-import{_ as s,o,a,Z as c,$ as _,g as t}from"./index.dde30430.js";const d={},n=e=>(c("data-v-c1f503ff"),e=e(),_(),e),r={class:"dashboard"},f=n(()=>t("h2",null,"dashboard",-1)),p=[f];function h(e,i){return o(),a("div",r,p)}const u=s(d,[["render",h],["__scopeId","data-v-c1f503ff"]]);export{u as default};
