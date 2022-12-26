@@ -1,0 +1,1 @@
+import{_ as o,o as t,a as c,Z as s,$ as _,g as a}from"./index.dde30430.js";const d={},n=e=>(s("data-v-5b2872df"),e=e(),_(),e),r={class:"category"},p=n(()=>a("h2",null,"category",-1)),f=[p];function i(e,l){return t(),c("div",r,f)}const u=o(d,[["render",i],["__scopeId","data-v-5b2872df"]]);export{u as default};
