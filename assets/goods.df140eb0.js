@@ -1,1 +1,0 @@
-import{_ as o,o as s,a as _,Z as t,$ as c,g as a}from"./index.7e83dcb1.js";const d={},n=e=>(t("data-v-912101e6"),e=e(),c(),e),p={class:"goods"},r=n(()=>a("h2",null,"goods",-1)),i=[r];function l(e,h){return s(),_("div",p,i)}const f=o(d,[["render",l],["__scopeId","data-v-912101e6"]]);export{f as default};
